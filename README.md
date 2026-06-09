@@ -39,7 +39,7 @@ The source data consists of raw e-commerce transaction records in CSV format tha
 
 ## Data Model — Star Schema
 
-![Star Schema](assets/star_schema.png)
+![Star Schema](star_schema.png)
 
 ### Fact Table
 
